@@ -100,7 +100,7 @@
 }
 
 .hr {
-  background-color: #ff470f;
+  background-color: #ffe479;
   border: none;
   content: "";
   height: 1px;
@@ -126,7 +126,7 @@
   transition-duration: 100ms;
 }
 .button {
-  background-color: #fff;
+  background-color: #ffe479;
   border-radius: 290486px;
   box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2);
   color: #9013fe;
