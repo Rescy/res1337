@@ -82,6 +82,7 @@
 }
 
 .name {
+  color: #ffe479;
   font-size: 2.25rem;
   line-height: 1.125;
   margin-bottom: 0.5rem;
@@ -111,6 +112,7 @@
 }
 
 .description {
+  color: #ffe479;
   font-size: 1.5rem;
 }
 
