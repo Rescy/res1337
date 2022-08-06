@@ -4,7 +4,7 @@
   right: 0;
   width: 100%;
   background-image: url("../images/abstract.jpeg");
-  background-position: center;
+  background-position: fixed;
   background-size: cover;
   position: fixed;
 }
@@ -100,7 +100,7 @@
 }
 
 .hr {
-  background-color: #ffe479;
+  background-color: #fff;
   border: none;
   content: "";
   height: 1px;
@@ -126,7 +126,7 @@
   transition-duration: 100ms;
 }
 .button {
-  background-color: #ffe479;
+  background-color: #fff;
   border-radius: 290486px;
   box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2);
   color: #9013fe;
