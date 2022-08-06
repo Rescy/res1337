@@ -3,7 +3,7 @@
   left: 0;
   right: 0;
   width: 100%;
-  background-image: url"https://pebiaa.my.id/images/abstract.jpeg";
+  background-image: url("../images/abstract.jpeg");
   background-position: center;
   background-size: cover;
   position: fixed;
