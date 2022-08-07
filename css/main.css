@@ -1,8 +1,4 @@
 .wallpaper {
-  height: 100%;
-  left: 0;
-  right: 0;
-  width: 100%;
   background-image: url("../images/abstract.jpeg");
   background-position: center;
   background-size: cover;
@@ -129,7 +125,7 @@
   transition-duration: 100ms;
 }
 .button {
-  background-color: #fff;
+  background-color: #000000;
   border-radius: 290486px;
   box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2);
   color: #9013fe;
