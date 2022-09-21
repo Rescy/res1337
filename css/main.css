@@ -1,5 +1,5 @@
 .wallpaper {
-  background-image: url("../images/images.jpeg");
+  background-image: url("../images/images.avif");
   background-position: center;
   background-size: cover;
   position: fixed;
@@ -129,7 +129,7 @@
   transition-duration: 100ms;
 }
 .button {
-  background-color: #000000;
+  background-color: #FF00FF;
   border-radius: 290486px;
   box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2);
   color: #9013fe;
