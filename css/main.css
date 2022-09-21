@@ -84,6 +84,10 @@
   margin-bottom: 0.5rem;
 }
 
+.batas {
+  color: #FF00FF;
+}
+
 .job,
 .button {
   font-family: "Montserrat", "Quicksand", sans-serif;
