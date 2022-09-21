@@ -84,10 +84,6 @@
   margin-bottom: 0.5rem;
 }
 
-.batas {
-  color: #FF00FF;
-}
-
 .job,
 .button {
   font-family: "Montserrat", "Quicksand", sans-serif;
@@ -129,7 +125,7 @@
   transition-duration: 100ms;
 }
 .button {
-  background-color: #FF00FF;
+  background-color: #000000;
   border-radius: 290486px;
   box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2);
   color: #9013fe;
@@ -155,7 +151,6 @@
 }
 
 .social {
-  color: #FF00FF;
   display: flex;
   margin-top: 1.5rem;
 }
