@@ -78,7 +78,7 @@
 }
 
 .name {
-  color: #ffe479;
+  color: #000000;
   font-size: 2.25rem;
   line-height: 1.125;
   margin-bottom: 0.5rem;
@@ -108,12 +108,11 @@
 }
 
 .description {
-  color: #ffe479;
+  color: #000000;
   font-size: 1.5rem;
 }
 
 .shop {
-  color: #FF00FF;
   display: inline-block;
   margin-top: 1.5rem;
   vertical-align: top;
@@ -125,7 +124,7 @@
   transition-duration: 100ms;
 }
 .button {
-  background-color: #000000;
+  background-color: #FF00FF;
   border-radius: 290486px;
   box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2);
   color: #9013fe;
