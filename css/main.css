@@ -124,10 +124,10 @@
   transition-duration: 100ms;
 }
 .button {
-  background-color: #000000;
+  background-color: #fff;
   border-radius: 290486px;
   box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2);
-  color: #9013fe;
+  color: #000000;
   display: inline-block;
   font-size: 0.875rem;
   line-height: 1;
