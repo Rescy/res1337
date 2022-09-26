@@ -78,7 +78,7 @@
 }
 
 .name {
-  color: #000000;
+  color: #ffe479;
   font-size: 2.25rem;
   line-height: 1.125;
   margin-bottom: 0.5rem;
@@ -108,7 +108,7 @@
 }
 
 .description {
-  color: #000000;
+  color: #ffe479;
   font-size: 1.5rem;
 }
 
@@ -124,7 +124,7 @@
   transition-duration: 100ms;
 }
 .button {
-  background-color: #FF00FF;
+  background-color: #000000;
   border-radius: 290486px;
   box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2);
   color: #9013fe;
