@@ -11,7 +11,9 @@ ul{padding: 14px}
 li{list-style: none; display: inline;}
 li a{background: #222; color:#d4d4d4;}
 li a:hover{background: #4da4ff; color:#fff;}
-.navi{background: #222; height: 50px}
+.navi{background: cover;
+  position: fixed;
+}
 </style>
 
 .content {
