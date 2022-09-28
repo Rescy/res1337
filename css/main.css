@@ -1,3 +1,10 @@
+body{
+  background-image: url("../images/images.avif");
+  background-position: center;
+  background-size: cover;
+  position: fixed;
+    }
+
 <style type="text/css">
 a{text-decoration: none; font-size: 20px;font-family: sans-serif;padding: 14px 10px}
 ul{padding: 14px}
