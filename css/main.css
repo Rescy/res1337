@@ -7,12 +7,6 @@ li a:hover{background: #4da4ff; color:#fff;}
 .navi{background: #222; height: 50px}
 </style>
 
-.wallpaper {
-  background-image: url("../images/images.avif");
-  background-position: center;
-  background-size: cover;
-  position: fixed;
-}
 .content {
   display: flex;
   position: relative;
