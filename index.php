@@ -371,7 +371,7 @@
   <div class="bg custom"></div> 
   <div class="container"> 
    <div class="touchme" onclick="woi()">
-    Touch Me! <a class="touchme" href="../index.html"> portofolio </a> 
+    Touch Me! <a class="touchme" href="https://pebiaa.my.id/portofolio.html"> portofolio </a> 
    </div> 
    <div class="quotes"> 
     <p id="quotation"></p> 
